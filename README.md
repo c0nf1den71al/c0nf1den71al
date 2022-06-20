@@ -1,11 +1,11 @@
 # 💫About Me :
 - 🔭 I’m currently working on [Domain Recon](https://github.com/d4rkflam1ngo/domain-recon)
 
-- 🌱 I’m currently learning **C#, Penetration Testing**
+- 🌱 I’m currently learning **C#, penetration pesting**
 
-- 👯 I’m looking to collaborate on **Anything cyber security related!**
+- 👯 I’m looking to collaborate on **anything cyber security related!**
 
-- 👨‍💻 All of my projects are available at [https://github.com/d4rkflam1ngo?tab=repositories](https://github.com/d4rkflam1ngo?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/d4rkflam1ngo?tab=repositories)
 
 - 📝 I regularly write articles on [Medium](https://jamiepegg.medium.com/)
 
