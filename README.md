@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/d4rkflam1ngo?tab=repositories)
 
-- 📝 I regularly write articles on [Medium](https://jamiepegg.medium.com/)
+- 📝 View some of my articles on [Medium](https://jamiepegg.medium.com/)
 
 - 💬 Ask me about **Python, JavaScript and Networking**
 
