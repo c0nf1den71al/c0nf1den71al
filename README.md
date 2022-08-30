@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **me@jamiepegg.com**
 
-- 📄 Know about my experiences on [LinkedIn](www.linkedin.com/in/jamiepegg)
+- 📄 Know about my experiences on [LinkedIn](https://linkedin.com/in/jamiepegg)
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jamiepegg) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jamiepegg) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_jamiepegg) 
