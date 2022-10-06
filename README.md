@@ -1,5 +1,5 @@
 # 💫About Me :
-- 🔭 I’m currently working on [Domain Recon](https://github.com/d4rkflam1ngo/domain-recon)
+- 🔭 I’m currently working on [EDR/AV Evasion](https://github.com/d4rkflam1ngo/syswhispers2-poc)
 
 - 🌱 I’m currently learning **C#, penetration pesting**
 
