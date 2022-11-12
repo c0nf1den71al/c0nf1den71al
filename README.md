@@ -1,5 +1,5 @@
 # 💫About Me :
-- 🔭 I’m currently working on [Wagyu XSS](https://github.com/d4rkflam1ngo/wagyu-xss)
+- 🔭 I’m currently working on [Wagyu XSS](https://github.com/c0nf1den71al/wagyu-xss)
 
 - 🌱 I’m currently learning **C#, penetration pesting**
 
