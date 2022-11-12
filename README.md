@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **anything cyber security related!**
 
-- 👨‍💻 All of my projects are available [here](https://github.com/d4rkflam1ngo?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/c0nf1den71al?tab=repositories)
 
 - 📝 View some of my articles on [Medium](https://jamiepegg.medium.com/)
 
