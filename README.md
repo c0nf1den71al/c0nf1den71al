@@ -1,8 +1,6 @@
 # 💫About Me :
-- 🔭 I’m currently working on [Wagyu XSS](https://github.com/c0nf1den71al/wagyu-xss)
-
-- 🌱 I’m currently learning **C#, penetration pesting**
-
+- 🔭 I’m currently working on [Reportr](https://github.com/c0nf1den71al/reportr)
+  
 - 👯 I’m looking to collaborate on **anything cyber security related!**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/c0nf1den71al?tab=repositories)
