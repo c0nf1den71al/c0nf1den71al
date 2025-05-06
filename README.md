@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/c0nf1den71al?tab=repositories)
 
-- 📝 View some of my articles on [Medium](https://substack.jamiepegg.com/)
-
 - 💬 Ask me about **Python, JavaScript and Networking**
 
 - 📫 How to reach me **me@jamiepegg.com**
